@@ -1,0 +1,9 @@
+{
+  "name": "werewolves-js",
+  "version": "0.1",
+  "description": "App for playing The Werewolves Of Miller's Hollow",
+  "author": "Todd Mantell",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}
